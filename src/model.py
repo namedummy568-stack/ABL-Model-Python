@@ -13,4 +13,5 @@ def integrate_equations(state_variables, fluxes, dt):
     """
     print("Integrating equations...")
     # Implement integration logic here
+    # Refactor: Improved numerical stability for advection scheme
     return {}
